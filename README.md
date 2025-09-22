@@ -3,15 +3,3 @@
 </div>
 
 <br>
-
-<div align="center">
-  <a href="https://github.com/AditiBhardwaj03">
-    <img src="https://github-readme-stats.vercel.app/api?username=AditiBhardwaj03&show_icons=true&theme=buefy&include_all_commits=true" alt="Aditi's GitHub Stats" />
-  </a>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AditiBhardwaj03&layout=compact&theme=buefy" alt="Top Languages" />
-</div>
